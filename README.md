@@ -33,7 +33,7 @@ More details on PIC16F15244 family microcontrollers and code examples can be fou
 In this code example, PIC12F1572 microcontroller timer peripheral is configured to periodically generate overflow interrupt with period of 30 milliseconds. Upon each interrupt event, the application counts the number of interrupts and toggles the state of connected LED through GPIO Pin for every one second.
 
 <p align="center">
-  <img width=auto height=auto src="images/BlockDiagram.png">
+  <img width=auto height=auto src="images/HardwareOverview.png">
   <br>Figure 1 : LED Blink Hardware Overview<br>
 </p>
 
@@ -44,8 +44,8 @@ In this code example, PIC12F1572 microcontroller timer peripheral is configured 
 - MPLAB® Code Configurator (MCC) Device Libraries PIC10/PIC12/PIC16/PIC18 MCU [v or newer](https://www.microchip.com/mplab/mplab-code-configurator)
 - Microchip PIC12Fxxxx Series Device Support [v1.3.90 or newer](https://packs.download.microchip.com/) 
 - MPLAB® Code Configurator (MCC) [ v5.1.1 or newer](https://www.microchip.com/mplab/mplab-code-configurator)
-  -- TMR0 v4.0.7
-  -- GPIO/Pins drivers v3.2.2
+   - TMR0 v4.0.7
+   - GPIO/Pins drivers v3.2.2
   
 **Note:** 
 
