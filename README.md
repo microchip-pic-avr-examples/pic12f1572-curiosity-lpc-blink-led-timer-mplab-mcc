@@ -23,10 +23,10 @@ More details on PIC16F15244 family microcontrollers and code examples can be fou
 
 - [Blink LED with Timer and Interrupt Using PIC16F15213](https://github.com/microchip-pic-avr-examples/pic16f15213-curiosity-lpc-blink-led-timer-mplab-mcc)
 - [Migration from PIC12F to PIC16F15244 Microcontroller Family](https://www.microchip.com/DS40002319) 
-- [PIC16F15244 Family Product Brief](https://ww1.microchip.com/downloads/en/DeviceDoc/40002140A.pdf)
+- [PIC16F152xx Family Product Brief](https://ww1.microchip.com/downloads/en/DeviceDoc/40002140A.pdf)
 - [PIC12F1572 Product Page](https://www.microchip.com/en-us/product/PIC12F1572)
 - [PIC12F1572 Datasheet](http://ww1.microchip.com/downloads/en/devicedoc/40001723d.pdf)
-- [PIC16F15244 Family Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=PIC16F152&type=&language=&sort=)
+- [PIC16F152xx Family Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=PIC16F152&type=&language=&sort=)
 
 ## Demo Description
 
